@@ -44,11 +44,10 @@
 <br />
 <br />
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisan-mia&show_icons=true" alt="jisan-mia" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisan-mia&show_icons=true" alt="jisan-mia" /></p>
 
-<summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Jisan-mia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jisan-mia&show_icons=true" />
+
 
 
 [website]: https://jisan.com
