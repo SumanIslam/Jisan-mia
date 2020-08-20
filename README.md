@@ -90,15 +90,15 @@ YOUTUBE:START
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="jisan-mia's Github Stats" src="https://github-readme-stats.jisan-mia.vercel.app/api?username=jisan-mia&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jisan-mia's Github Stats" src="https://github-readme-stats.Jisan-mia.vercel.app/api?username=Jisan-mia&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://jr.isan-mia.com
-[twitter]: https://twittecom/jisan-mia
-[youtube]: https://youtube.com/jisan-mia
-[instagram]: https://instagram.com/jisan-mia
-[linkedin]: https://linkedin.com/in/jisan-mia
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
