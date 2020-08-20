@@ -44,8 +44,14 @@
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisan-mia&show_icons=true" alt="jisan-mia" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisan-mia&show_icons=true" alt="jisan-mia" /></p>-->
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://jisan.com
 [twitter]: https://twitter.com/JisanMia4
