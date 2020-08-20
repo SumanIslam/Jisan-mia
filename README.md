@@ -3,6 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jisan-mia" alt="jisan-mia" /> </p>
 
+### Connect with me:
+
+[<img align="left" alt="jisan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jisan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="jisan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jisan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jisan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
 - 🔭 I’m currently working on **Javascript Projects**
 
 - 🌱 I’m currently learning **React and Back-end Things**
@@ -19,11 +30,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisan-mia&show_icons=true" alt="jisan-mia" /></p>
 
-----
 
-<p align="center">
-<a href="https://twitter.com/jisanmia4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jisanmia4" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/jisan-mia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jisan-mia" height="30" width="30" /></a>
-<a href="https://fb.com/jisanmia47" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jisanmia47" height="30" width="30" /></a>
-<a href="https://instagram.com/ahsan.jishan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ahsan.jishan" height="30" width="30" /></a>
-</p>
+[website]: https://jisan.com
+[twitter]: https://twitter.com/JisanMia4
+[facebook]: https://youtube.com/jisanmia47
+[instagram]: https://instagram.com/ahsan.jishan
+[linkedin]: https://linkedin.com/in/jisan-mia
+
