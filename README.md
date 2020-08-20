@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=jisan-mia.com&style=for-the-badge&url=https%3A%2F%2Fjisan-mia.com)](https://jisan-mia.com)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jisan-mia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjisan-mia&screen_name=jisan-mia)
+[![Linkedin](https://img.shields.io/linkedin/jisan-mia?color=1DA1F2&logo=twitter&style=for-the-badge)](https://linkedin.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjisan-mia&screen_name=jisan-mia)
 
 ## I'm a Web Developer, Programmer, Student!
 
@@ -12,13 +12,10 @@
 - 🥅 2020 Goals: Become a Full-stack Web Developer
 - ⚡ Fun fact: I love to explore new things/areas
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-jisan-mia.vercel.app/api/spotify-playing" alt="jisan-mia Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
 [<img align="left" alt="jisan-mia.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jisan-mia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="jisan-mia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][youtube]
 [<img align="left" alt="jisan-mia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jisan-mia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jisan-mia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
