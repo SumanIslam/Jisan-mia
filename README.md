@@ -50,7 +50,7 @@
 
 [website]: https://jisan.com
 [twitter]: https://twitter.com/JisanMia4
-[facebook]: https://youtube.com/jisanmia47
+[facebook]: https://facebook.com/jisanmia47
 [instagram]: https://instagram.com/ahsan.jishan
 [linkedin]: https://linkedin.com/in/jisan-mia
 
